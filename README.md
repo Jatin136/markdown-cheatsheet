@@ -10,7 +10,7 @@ Feel free to create a branch and contribute for further enhancing this markdown 
 - [Markdown Cheat Sheet - Adam P on Github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Markdown guide](https://www.markdownguide.org/getting-started/)
 - [In-browser Markdown editor](https://stackedit.io/)
-- [Commonmark](https://commonmark.org/)
+- [Markdown Reference](https://commonmark.org/)
 - [Daring Fireball Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
 
 ## Author Info
